@@ -1,7 +1,9 @@
-
-
-
-
+breakfast
+    pancakes are good   
+    they are good with 
+    maple syrup
+    berry's (any)
+    some yogurt can be good to add 
 
 Morning Tea:
     1. Baked arduino and copper wire scones, paired with a pleasant GPU coolant.
