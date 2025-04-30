@@ -11,10 +11,15 @@ breakfast
 
 
 
-
-
-
+Morning Tea:
+    1. Baked arduino and copper wire scones, paired with a pleasant GPU coolant.
+    2. Books
+    3. A lightly glazed lemon chicken, garnished with rosemary and with a side of roasted sweet potatoes.
 
 Lunch:
 Salad and some cookies
 lots of water
+<<<<<<< HEAD
+=======
+
+>>>>>>> ca76ed74fb2972d37099fcdbcd43a0143c079a64
